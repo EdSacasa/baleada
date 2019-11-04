@@ -37,10 +37,10 @@ body {
 
 .logoimg {
 	position: absolute;
-	width: 396px;
-	height: 60px;
+	width: 346px;
+	height: 5px;
 	transform: translate(-50%, 0);
-	top: 15px;
+	top: 5px;
 	left: 50%;
 }
 
