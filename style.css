@@ -264,7 +264,22 @@ h6 {
 	padding: 20px 0px;
 }
 
-#sponsored {
+#sponsored1 {
+	border: 1px solid #e6e6e6;
+	padding: 20px;
+}
+
+#sponsored2 {
+	border: 1px solid #e6e6e6;
+	padding: 20px;
+}
+
+#sponsored3 {
+	border: 1px solid #e6e6e6;
+	padding: 20px;
+}
+
+#sponsored4 {
 	border: 1px solid #e6e6e6;
 	padding: 20px;
 }
@@ -653,7 +668,35 @@ footer {
 }
 
 @media (max-width: 767px) {
-	#image {
+	#image1 {
+		width: 258px;
+	}
+
+  #image2 {
+		width: 258px;
+	}
+
+  #image3 {
+		width: 258px;
+	}
+
+  #image4 {
+		width: 258px;
+	}
+
+  #image5 {
+		width: 258px;
+	}
+
+  #image6 {
+		width: 258px;
+	}
+
+  #image7 {
+		width: 258px;
+	}
+
+  #image8 {
 		width: 258px;
 	}
 
