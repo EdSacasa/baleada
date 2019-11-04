@@ -1,7 +1,7 @@
 ![Issues][issues-shield]
 
 
-  <h3 align="center"></h3>
+  <h3 align="center">BOOTSTRAP</h3>
 
   <p align="center">
     In this project, I’ll get a chance to try out Twitter’s Bootstrap framework by building a site that actually uses it – Newsweek</p>
