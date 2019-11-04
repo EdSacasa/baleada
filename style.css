@@ -368,31 +368,31 @@ h6 {
 }
 
 #image-article1 {
-	background-image: url(images/feschiff01banner.jpg);
+	background-image: url(images/image1.jpg);
 }
 
 #image-article2 {
-	background-image: url(images/feomar011130744964.jpg);
+	background-image: url(images/image1.jpg);
 }
 
 #image-article3 {
-	background-image: url(images/affirmative-action-college-admissions-scandal-statistics.jpg);
+	background-image: url(images/image1.jpg);
 }
 
 #image-article4 {
-	background-image: url(images/fewhiteidentity01619475022.jpg);
+	background-image: url(images/image1.jpg);
 }
 
 #image-article5 {
-	background-image: url(images/doug-jones.jpg);
+	background-image: url(images/image1.jpg);
 }
 
 #image-article6 {
-	background-image: url(images/feblockchain-impact-awardssimply-vital-health1062184620.jpg);
+	background-image: url(images/image1.jpg);
 }
 
 #image-article7 {
-	background-image: url(images/infocus041135495345.jpg);
+	background-image: url(images/image1.jpg);
 	height: 17vw;
 }
 
@@ -611,7 +611,7 @@ footer {
 		width: 132px;
 		height: 20px;
 		left: 100px;
-		top: 10px;
+		top: 5px;
 	}
 
 	.fa-bars {
